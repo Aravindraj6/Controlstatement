@@ -43,6 +43,7 @@ public class Webtable {
 	        	  
 	        	  File desc = new File("C:\\Users\\DELL\\eclipse-workspace\\Selenium\\Screenshot\\third.png");
 	        	  FileUtils.copyFile(src, desc);
+	        	  System.out.println("aravind");
 	        	  
 	  
 					}
