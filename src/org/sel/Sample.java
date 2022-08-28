@@ -1,13 +1,13 @@
 package org.sel;
 
 public class Sample {
-	
-	private void num() {
-       System.out.println("My num is 0987654321");
-	}
-	public static void main(String[] args) {
-		Sample s = new Sample();
-		s.num();
-	}
-
+ private void number() {
+                  System.out.println("my num is 9876543210");
+                  System.out.println("my num is 989898989");
+}
+	        public static void main(String[] args) {
+				Sample s = new Sample();
+				s.number();
+				
+			}
 }
