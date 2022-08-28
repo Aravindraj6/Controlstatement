@@ -1,14 +1,27 @@
 package org.sel;
 
+<<<<<<< HEAD
 import java.util.Iterator;
 import java.util.List;
+=======
+import java.io.IOException;
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.net.URLConnection;
+
+
+import javax.net.ssl.HttpsURLConnection;
+>>>>>>> c2a3fec46a1a317e9e733002cf86190e3c6e8345
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> c2a3fec46a1a317e9e733002cf86190e3c6e8345
 
 public class Frames {
 	
